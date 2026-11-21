@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=00f2fe&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=3&section=header" width="100%" />
 </div>
 
 <br>
@@ -66,7 +66,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=4facfe&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4facfe&height=3&section=header" width="100%" />
 </div>
 
 <br>
@@ -122,7 +122,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=7f00ff&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7f00ff&height=3&section=header" width="100%" />
 </div>
 
 <br>
@@ -183,7 +183,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=00f2fe&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2fe&height=3&section=header" width="100%" />
 </div>
 
 <br>
@@ -205,7 +205,7 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rectangles&color=4facfe&height=4&section=header&reversal=false&text=&fontSize=0&animation=flashing" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4facfe&height=3&section=header" width="100%" />
 </div>
 
 <br>
