@@ -216,7 +216,7 @@
 
 [![Email](https://img.shields.io/badge/EMAIL-chakri.automates%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ff6600)](mailto:chakri.automates@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-chakradharreddy141--netizen-000000?style=for-the-badge&logo=github&logoColor=00f2fe)](https://github.com/chakradharreddy141-netizen)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Chakradhar_Reddy-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/chakradhar-reddy)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Chakradhar_Reddy-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/chakradhar-reddy-471877420/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Chakri_Automates-000000?style=for-the-badge&logo=buffer&logoColor=7f00ff)](https://upwork.com/freelancers/chakriautomates)
 
 </div>
